@@ -1,3 +1,5 @@
+# Based on the docker container from https://github.com/henryclever/FleX_PyBind11
+
 FROM nvidia/cudagl:9.2-devel
 
 RUN apt update && apt install -y freeglut3-dev build-essential \
