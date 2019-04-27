@@ -1,1 +1,1 @@
-python train.py --env BoxBath --gen_data 1
+python3 train.py --env BoxBath --gen_data 1

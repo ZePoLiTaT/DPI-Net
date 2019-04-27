@@ -33,7 +33,7 @@ Add and compile PyFleX submodule
 Test PyFleX examples
 
     cd ${PYFLEXROOT}/bindings/examples
-    python test_FluidFall.py
+    python3 test_FluidFall.py
 
 
 ## Evaluation
